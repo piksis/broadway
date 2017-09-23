@@ -44,19 +44,18 @@ p {
     font-weight: bold;
     color: white;
 }
+
+/*-- Footer need fix... 
 .footer {
     float: left;
-    width: 100%;
-    height: auto;
+}
+.footer p {
+    display: inline-block;
     font-size: 11px;
     color: white;
     background-color: dimgray;
 }
 .footer li {
-    float: left;
-}
-.footer a {
     display: inline-block;
-    margin: 0;
-    padding: 3px;
 }
+ --*/
